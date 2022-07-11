@@ -24,3 +24,16 @@ Aprendemos diversas coisas sobre a utililzação da criptografia RSA, e como ela
 para estudar Phyton o que era uma vontade da dupla, mas por toda a correria acabamos deixando de lado, aprendemos muito sobre outros tipos de criptografia
 durante nossos estudos sobre e pesquisas, encontramos diversas ferramentas disponíveis no Phyton para a realização dessa atividade, pretendemos estender
 nossos estudos tando em criptografia como em phyton.
+
+<h2 align="center">Comandos</h2>
+
+
+Para clonar o repositório
+```sh
+git clone https://github.com/DartaBlenke/Criptografia-RSA-N3.git
+```
+
+Para rodar o script
+```sh
+py app.py
+```
