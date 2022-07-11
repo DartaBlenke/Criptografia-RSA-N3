@@ -3,7 +3,7 @@
 <h3>Alunos: D'Artagnan Blenke e Eduardo Effting</h3>
 <h3>Professor: Rodrigo Mello Mattos Habib</h3>
 
-<h4>Planejamento e Operação</h4>
+<h2 align="center">Planejamento e Operação</h2>
 Utilizamos da linguagem Phyton, por ser uma linguágem de mais fácil entendimento, e por termos uma breve experiência de utilização,
 como trabalhamos com Front-end, não costumamos utilizar linguágens de Back-end, encontramos diversos problemas para a criação do código,
 por não dominarmos a tecnologia, não conseguimos fazer a leitura de outro arquivo, para que o mesmo fosse criptografado e depois descriptografado,
