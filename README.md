@@ -25,6 +25,12 @@ para estudar Phyton o que era uma vontade da dupla, mas por toda a correria acab
 durante nossos estudos sobre e pesquisas, encontramos diversas ferramentas disponíveis no Phyton para a realização dessa atividade, pretendemos estender
 nossos estudos tando em criptografia como em phyton.
 
+Tentei utilizar de métodos para fazer a leitura do arquivo, consegui ler a mensagem de um arquivo .txt e utilzar a mesma para ser criptografada utilizando
+os cálculos, após ser criptografada consegui receber a mesma no terminal e passar para uma variável, mas não consegui enviar essa msenagem criptografada para
+um novo arquivo, por nào dominar a linguágem depois de muitas pesquisas ainda assim não consegui descobrir como utilizar da saída da função para encaminhar
+o valor para o novo arquivo, o arquivo é criado mas em branco, tive problemas para descriptografar por conta da chave ser gerada toda vez que o código é
+rodado, e por isso não consegui avançar para descriptografia.
+
 <h2 align="center">Comandos</h2>
 
 
